@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "strictNullChecks": true,
+    "strict": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "lib": [ "ES2018", "DOM"]
+  },
+  "include": ["examples/*/src", "challenges/*/src", "notes"]
+}
